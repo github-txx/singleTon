@@ -1,4 +1,3 @@
-package threadDemo;
 /**
  * 单例模式：单例模式确保类只有一个实例，并且提供一个全局的访问点。
  * 1、双检查锁机制（Double Check Locking）实现DCL
